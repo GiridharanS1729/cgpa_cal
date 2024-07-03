@@ -70,6 +70,6 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 ## 📬 Contact
 
-Giridharan S - [@giridharans1729](https://twitter.com/giridharans1729) - giridharans1729@example.com
+Giridharan S - [@giridharans1729](https://twitter.com/giridharans1729) - giridharans1729@gmail.com
 
-Project Link: [KEC CGPA](https://kcgpa.netlify.app/)
+Project Link: [Calculate CGPA](https://kcgpa.netlify.app/)
