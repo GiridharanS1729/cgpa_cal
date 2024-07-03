@@ -31,7 +31,7 @@ Make sure you have a web browser installed (e.g., Google Chrome, Firefox).
     ```
 2. Navigate to the project directory:
     ```sh
-    cd cgpa-calculator
+    cd cgpa-calc
     ```
 3. Open the `index.html` file in your web browser.
 
