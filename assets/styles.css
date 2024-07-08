@@ -64,7 +64,7 @@ body,
         }
 
         button:hover {
-            background: linear-gradient(45deg, #c25f09, #c204a9);
+            background: linear-gradient(45deg, #c204a9, #c25f09);
             transform: scale(1.05);
         }
 
